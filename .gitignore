@@ -1,6 +1,5 @@
 /.idea
 /*.iml
-/**/*.iml
 /toeic-core-dao/target
 /toeic-core-dao-impl/target
 /toeic-core-data/target
@@ -10,3 +9,12 @@
 /toeic-core-utils/target
 /toeic-web/target
 /toeic-web-logic/target
+/toeic-core-dao/*.iml
+/toeic-core-dao-impl/*.iml
+/toeic-core-data/*.iml
+/toeic-core-dto/*.iml
+/toeic-core-service/*.iml
+/toeic-core-service-impl/*.iml
+/toeic-core-utils/*.iml
+/toeic-web/*.iml
+/toeic-web-logic/*.iml
