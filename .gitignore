@@ -1,5 +1,5 @@
 /.idea
-/*.iml
+*.iml
 /toeic-core-dao/target
 /toeic-core-dao-impl/target
 /toeic-core-data/target
