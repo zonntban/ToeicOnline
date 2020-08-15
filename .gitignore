@@ -6,6 +6,7 @@
 /toeic-core-dto/target
 /toeic-core-service/target
 /toeic-core-service-impl/target
+/toeic-core-test/target
 /toeic-core-utils/target
 /toeic-web/target
 /toeic-web-logic/target
@@ -15,6 +16,7 @@
 /toeic-core-dto/*.iml
 /toeic-core-service/*.iml
 /toeic-core-service-impl/*.iml
+/toeic-core-test/*.iml
 /toeic-core-utils/*.iml
 /toeic-web/*.iml
 /toeic-web-logic/*.iml
