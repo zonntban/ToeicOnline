@@ -1,5 +1,7 @@
 /.idea
 /*.iml
-/**/target/
-/**/*.iml
+/*/target
+/*/*.iml
 
+/toeic-core-persistent-data/target
+/toeic-core-persistent-data/*.iml
