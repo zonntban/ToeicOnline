@@ -5,3 +5,5 @@
 
 /toeic-core-persistent-data/target
 /toeic-core-persistent-data/*.iml
+/toeic-core-common/*.iml
+/toeic-core-test/*.iml
